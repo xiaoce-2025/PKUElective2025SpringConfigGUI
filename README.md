@@ -1,2 +1,7 @@
 # PKUElective2025SpringConfigGUI
 PKUElective2025Spring的config的GUI编辑界面
+
+
+config.ini的可视化编辑界面
+
+Elective本体参考https://github.com/zhuozhiyongde/PKUElective2024Spring
