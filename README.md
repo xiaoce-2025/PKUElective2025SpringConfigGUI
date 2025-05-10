@@ -1,0 +1,2 @@
+# PKUElective2025SpringConfigGUI
+PKUElective2025Spring的config的GUI编辑界面
